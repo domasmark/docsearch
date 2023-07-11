@@ -4,9 +4,9 @@ Style package for [DocSearch](http://docsearch.algolia.com/), the best search ex
 
 Hello:)
 
-test 2.&#x20;
 
-![](packages/website/static/img/DSC03735.JPG)
+
+![](<packages/website/static/img/2015-09-16 19.43.48.jpg>)
 
 ## Installation
 
