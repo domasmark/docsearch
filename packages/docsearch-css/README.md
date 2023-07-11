@@ -1,10 +1,18 @@
 # @docsearch/css
 
-Style package for [DocSearch](http://docsearch.algolia.com/), the best search experience for docs.
+Style package for [DocSearch](http://docsearch.algolia.com/), the best search experience for docs. Labas.
+
+Hello:)
+
+
+
+```
+Amazing, dope.
+```
 
 ## Installation
 
-```bash
+```bash title="Amazing title"
 yarn add @docsearch/css@3
 # or
 npm install @docsearch/css@3
